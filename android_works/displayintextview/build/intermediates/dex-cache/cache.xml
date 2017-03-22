@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_3f880bb65c6eee81604061e29a7d24dc21761a2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/superuser/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_2285549bfc0e6204dd50bdae1fea458686b26147/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_576c3d1c2f965db95b9df588bca11462b4fbfe7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_9dc504b39d231eb5b8a0e4481a74fb9b4586a61a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_77de804ff77955a348110a94d9ff0f99574675fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_da15e54cae03aa2640ca4bab7fc922f4845bf03f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba7840472e082c95ec225cccfdc4b7c8852ff2ef">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e92e73d655adfeb728507d802edf7ffff430ea6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_ab0abcd7b6a87c592774f8431c81cb849592c421/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="578f1bfc5e31a9834e18a9079026bbf7293f131e">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_96496f4725b2dd83a03f3511f164442e053ce97a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_6cb9d722126f18e44c6a9732e22024004c6760cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_814723b346f0643291273fe464299900af7b5324/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_95f555a527b3192bf62b3df2af48531e4182c769/classes.dex" />
+    </item>
+
+</items>

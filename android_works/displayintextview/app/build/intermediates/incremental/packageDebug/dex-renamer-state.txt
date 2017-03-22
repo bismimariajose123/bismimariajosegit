@@ -1,0 +1,7 @@
+#Fri Mar 17 00:23:55 IST 2017
+base.0=/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_96496f4725b2dd83a03f3511f164442e053ce97a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e92e73d655adfeb728507d802edf7ffff430ea6d/classes.dex
+base.1=/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e92e73d655adfeb728507d802edf7ffff430ea6d
+file.0=/home/superuser/bismi/android_works/displayintextview/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_96496f4725b2dd83a03f3511f164442e053ce97a/classes.dex

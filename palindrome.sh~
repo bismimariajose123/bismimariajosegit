@@ -1,16 +1,14 @@
 echo "enter name"
 read a
+reverse=`echo $a | rev`
+echo $reverse
+if [ $a -eq $reverse ]
+then
+echo "palindrome"
+else
+echo "not a palindrome"
+fi
 
-len=`echo $a |wc -c`
-i=`expr $len - 1`
-echo "length of string="$i
-echo "reverse of string"
-while [ $i -gt 0 ]
-do
-echo $a | cut -c$i
 
-i=`expr $i - 1`
-done
-echo $name
 
 

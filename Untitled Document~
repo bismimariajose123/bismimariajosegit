@@ -12,4 +12,3 @@ rev=$rev$rev1
 i=`expr $i - 1`
 done
 echo $rev
-

@@ -1,0 +1,115 @@
+import java.util.Scanner; 
+import java.util.ArrayList;
+import java.util.*;
+import java.lang.*;
+
+public class HelloWorld
+   {
+
+     public static void main(String []args)
+       {
+          Scanner sc=new Scanner(System.in);  
+          System.out.println("Buzz Game started ");
+          Game obj=new Game();
+          int choice;
+          do
+           {
+             System.out.println("1.start\n2.exit\nEnter your choice") ;
+              choice=sc.nextInt(); 
+             switch(choice)
+               {
+                 case 1: System.out.println("Enter a number");  
+                          int lv_num=sc.nextInt();  
+                          System.out.println("Enter a range ");  
+                          int lv_range=sc.nextInt();  
+                          obj.set_multipleof(lv_num);
+                          obj. set_Range(lv_range);
+                          List<String> list=new ArrayList<String>();
+                          list=obj.FillList();
+                          int i;
+                             for( i=0;i<list.size();i++)
+                             {
+                                
+                                 if(i==0 || (i % 2==0))
+                                 {
+                                  System.out.println(list.get(i));
+                                 }
+                                 else
+                                 {
+                                     System.out.println("Your turn");
+                                     String userip=sc.next();
+                                     if(userip.equals(list.get(i)))
+                                     {
+                                         
+                                     }
+                                     else
+                                     {
+                                         System.out.println("Incorrect input  "+ userip +" must be multiple of "+obj.get_multipleof()+"\n ****----You Lose------");
+                                         break;
+                                     }
+                                     
+                                     
+                                 }
+                                 
+                             }
+                             if(i==list.size())
+                             {
+                                  System.out.println("*******   You Won...!!!!!!");
+                             }
+                            
+                           break;
+                 case 2:System.out.println("Game exited........");
+                 return;
+                 
+                }
+            }
+          while(choice==2);
+         
+          sc.close(); 
+        }
+     }
+class Game
+{
+    private int cv_multipleof;
+    private int cv_range;
+    public int get_multipleof()
+    {
+        return cv_multipleof;
+    }
+     public int get_Range()
+    {
+        return cv_range;
+    }
+    public void set_multipleof(int a)
+    {
+        this.cv_multipleof=a;
+    }
+     public void set_Range(int a)
+    {
+        this.cv_range=a;
+    }
+    public List<String> FillList()
+    {
+        int i;
+        List<String> list=new ArrayList<String>();
+        int range=get_Range();
+        int value=get_multipleof();
+        for(i=1;i<=range;i++)
+        {
+            if(i % value==0)
+            {
+                list.add("buzz");
+            }
+            else
+            {
+                list.add(Integer.toString(i));
+            }
+        }
+       return list; 
+       
+       
+        
+    }
+    
+    
+}

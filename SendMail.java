@@ -21,7 +21,7 @@ public class SendMail {
 	    //  String from = "extern_jose.bismi@allianz.com";
 
 	      // Assuming you are sending email from localhost
-	      String host = "tmu-econ.mail.allianz";
+	      String host = "xcxcxcx"
 
 	      // Get system properties
 	      Properties properties = System.getProperties();
